@@ -1,0 +1,33 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+body{
+    background: #000;
+}
+.timer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 70px 190px 170px 190px;
+    padding: 60px;
+    font-size: 50px;
+    font-style: italic;
+    color: greenyellow;
+    box-shadow: 0px 0px 80px white;
+    border-radius: 5px;
+    background: #000;
+    text-align: center;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: 55px;
+    color: white;
+    margin-top: 80px;
+    color: greenyellow;
+    font-style: italic;
+}
+p{
+    margin-top: 30px;
+}
