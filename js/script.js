@@ -1,6 +1,6 @@
 function countdown(){
 let current=new Date().getTime()
-let deadline=new Date("2024-01-01T00:00:00").getTime()
+let deadline=new Date("2025-01-01T00:00:00").getTime()
 
 let now=deadline-current
 
